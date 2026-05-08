@@ -1,4 +1,4 @@
-# 🚀 AutoML Benchmarking Bot
+# 🚀 AutoML Benchmarking Tool
 
 ### *From Raw CSV → Optimized Model → Auto-Generated Insights in Minutes*
 
