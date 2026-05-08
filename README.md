@@ -1,7 +1,7 @@
  
 ---
 
-# 🚀 AutoML Benchmarking Bot
+# 🚀 AutoML Benchmarking Tool
 
 ### *An Intelligent End-to-End Machine Learning Pipeline with Bayesian Optimization*
 
